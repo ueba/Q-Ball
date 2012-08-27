@@ -1,0 +1,53 @@
+body{
+	margin: 0px;
+}
+	
+#qbtitle{
+	width: 750px;
+	height: 42px;
+	background-color: #b1e7ae;
+	padding: 20px;
+	font-size: 30px;
+	border-left: #4cc746 30px solid;
+	border-right: #4cc746 40px solid;
+	vertical-align: middle;
+}
+
+#canvas1{
+	border: #000 2px solid;
+	float: left;
+	margin-right: 16px;
+	margin-left: 20px;
+}
+
+#ControlPanel{
+	border: solid 2px #000000;
+}
+
+.chead{
+	border: solid 1px #aaaaaa;
+	background-color: #aaaaaa;
+}
+.celem{
+	border: solid 1px #aaaaaa;
+	text-align: left;
+}
+
+#setbtn{
+	text-align: center;
+}	
+
+#fotter{
+	clear: left;
+}
+
+#vqp{
+	text-align: center;
+	font-size: 20px;
+	font-weight: bold;
+}
+
+#qref{
+	font-size: 12px;
+	text-align: right;
+}
